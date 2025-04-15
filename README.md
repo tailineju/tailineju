@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-Profissionalmente falando, sou um mix de análise de dados, pesquisa de mercado e de produto e uma pitada de foco acadêmico em modelagem estatística. Já atuei no Nubank com foco em planejamento e execução de pesquisas quantitativas e qualitativas. Entrei sem querer nesse mundo de pesquisa e acabei me especializando bastante.  Gosto de trabalho organizado e adoro templates 🤩
+Profissionalmente falando, sou um mix de análise de dados, pesquisa de mercado e de produto com uma pitada de foco acadêmico em modelagem estatística. Já atuei no Nubank com foco em planejamento e execução de pesquisas quantitativas e qualitativas. Entrei sem querer nesse mundo de pesquisa e acabei me especializando bastante.  Gosto de trabalho organizado e adoro templates 🤩
 
 ### Visão geral
 
