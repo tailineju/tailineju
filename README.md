@@ -1,10 +1,11 @@
 # Hi there 👋 
 
-Profissionalmente falando, sou um mix de análise de dados, pesquisa de mercado e de produto com uma pitada de foco acadêmico em modelagem estatística. Já atuei no Nubank com foco em planejamento e execução de pesquisas quantitativas e qualitativas. Entrei sem querer nesse mundo de pesquisa e acabei me especializando bastante.  Gosto de trabalho organizado e adoro templates 🤩
+Profissionalmente falando, sou um mix de análise de dados, pesquisa de mercado e de produto com uma pitada de foco acadêmico em modelagem estatística. Atuando na Embrapa Hortaliças como analista na subárea de Análise de Dados. Entrei sem querer nesse mundo de pesquisa e acabei me especializando bastante.  Gosto de trabalho organizado e adoro templates 🤩
 
 ### Visão geral
 
--  Graduação em Estatística pela Universidade de Brasília e Universidade de Macau
+-  Graduação em Estatística pela Universidade de Brasília e Universidade de Macau (2025)
+-  Especialização em Gestão Estratégica de Negócios (2025)
 -  Mestrado em Estatística em andamento
 -  Atuando com pesquisa quantitativa de mercado e projetos educacionais
 
@@ -13,7 +14,7 @@ Profissionalmente falando, sou um mix de análise de dados, pesquisa de mercado 
 
 - Modelagem estatística
 - Visualização de dados e comunicação científica
-- Aplicações em educação e comportamento do consumidor
+- Aplicações em comportamento do consumidor e dados ambientais/agronômicos.
 
 
 ### Conecte-se comigo
