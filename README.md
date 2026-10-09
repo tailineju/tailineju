@@ -1,22 +1,22 @@
 # Hi there 👋 
 
-Profissionalmente falando, sou um mix de análise de dados, pesquisa de mercado e de produto com uma pitada de foco acadêmico em modelagem estatística.
+Professionally, I bring together data analytics, market and product research, with an academic focus on statistical modeling.
 
-### Visão geral
+### Overview
 
--  Mestrado em Estatística em andamento (2025~);
--  Especialização em Gestão Estratégica de Negócios (2025);
--  Graduação em Estatística pela Universidade de Brasília e Universidade de Macau (2019-2025);
--  Ocupação: Analista - Análise de Dados na Embrapa Hortaliças.
+- M.Sc. in Statistics (in progress, since 2025);
+- Specialization in Strategic Business Management (2025);
+- B.Sc. in Statistics from the University of Brasília, with an academic exchange at the University of Macau (2019–2025);
+- Current position: Data Analyst at Embrapa Vegetables.
 
-### Áreas de interesse
+### Areas of interest
 
-- Modelagem estatística;
-- Visualização de dados e comunicação científica;
-- Aplicações em comportamento do consumidor e dados ambientais/agronômicos.
+- Statistical modeling;
+- Data visualization and scientific communication;
+- Applications in consumer behavior and environmental/agronomic data.
 
 
-### Conecte-se comigo
+### Connect with me
 
 - 💌 [tailine.nonato@gmail.com](mailto:tailine.nonato@gmail.com)
 - 📄 [Lattes](http://lattes.cnpq.br/4786002405480747)
